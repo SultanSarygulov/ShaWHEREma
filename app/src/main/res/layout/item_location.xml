@@ -52,7 +52,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="@font/open_sans"
-            android:textColor="@color/my_dark_gray"
+            android:textColor="@color/my_gray"
             tools:text="Карпинка" />
 
         <TextView
@@ -60,7 +60,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="@font/open_sans"
-            android:textColor="@color/my_dark_gray"
+            android:textColor="@color/my_gray"
             tools:text="Открыто до 23:59" />
 
     </LinearLayout>
@@ -164,7 +164,7 @@
         android:layout_height="30dp"
         android:layout_above="@+id/divider"
         android:layout_alignParentEnd="true"
-        android:background="@color/white"
+        android:background="@android:color/transparent"
         android:contentDescription="down"
         android:cropToPadding="true"
         android:foreground="?android:attr/selectableItemBackground"
