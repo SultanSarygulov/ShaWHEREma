@@ -11,3 +11,6 @@ App video
 <br>
 https://github.com/user-attachments/assets/504cd2a5-40b2-4ee3-9bb2-a68117d310a6
 
+APK release app
+<br>
+https://drive.google.com/file/d/1pYVLI3KToXeyMvhwkZPZ97EBrqCp9X7f/view?usp=sharing
